@@ -42,12 +42,11 @@
 
 ![](https://github.com/ryomeblog/cdk-js-resolvers-sample/blob/master/img/infrastructure.drawio.png)
 
-
 ### [AppSync × Aurora Serverless](https://github.com/ryomeblog/cdk_aurora_appsync)
 
 - 詳細：CDKでAppSync × Aurora Serverless を構築するサンプルコード。
 
-[cloudformation-cloudfront-s3-pipeline](https://github.com/ryomeblog/cloudformation-cloudfront-s3-pipeline)
+### [cloudformation-cloudfront-s3-pipeline](https://github.com/ryomeblog/cloudformation-cloudfront-s3-pipeline)
 
 - 詳細：CodeCommitプッシュ時に自動でS3にデプロイするCloudFormationテンプレート。
 
